@@ -16,7 +16,7 @@ The system allows users to:
 ## 🛠️ Technologies Used
 - 💻 Programming Language: **Java**  
 - 🗄️ Database: **MySQL**  
-- 🔧 Tools: **Git, GitHub**  
+- 🔧 Tools: GitHub**  
 
 ---
 
@@ -45,36 +45,36 @@ The system allows users to:
 
 ```bash
 
-git clone https://github.com/mdrasel768/DIU-Ride-sharing.git
+git clone https://github.com/pranto-007/DIU-Ride-sharing
 
 
 2️⃣ Open project
 
-Open the project in any IDE:
+Open the project in Visual Studio Code:
 
-  -IntelliJ IDEA
-
-  -Eclipse
+  - Install required extensions
+  - Open the project folder
+  - Run the application
 
 
 3️⃣ Setup Database (MySQL)
 
-Create a database
-
-  -Import required tables (if available)
-
-  -Update DB username & password in project
+- Create a MySQL database for the project
+- Import the required tables
+- Update database username and password in `application.properties`
+- Make sure MySQL server is running before starting the application
 
 
 4️⃣ Run the project
 
-  -Compile the code
-
-  -Run the main Java file
+- Open the project in Visual Studio Code
+- Run the Spring Boot application
+- Start the main Java application file
+- Access the application through the browser
 
 
 👨‍💻 Author
 
-Rasel
+Pranto
 
 🎓 Daffodil International University (DIU)
